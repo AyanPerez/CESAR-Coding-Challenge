@@ -83,6 +83,4 @@ https://pl.kotl.in/R9Oy7ZXOZ
 ```
 
 ## Explanation
-```
 The proposed solution has complexity O(n) due it's checked each item of a given list with N elements, if there is duplicated item, the item is not added at the list, if not, the item is copied to another list.
-```

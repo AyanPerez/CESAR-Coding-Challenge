@@ -5,12 +5,6 @@ or it has one typo (like explained on previous problems), but not both.
 
 ## Solution 
 ```
-It was created an activity to resolve the problem, as you can see in the screenshots below:
+It was created an activity to resolve the problem, as you can see in the screenshots:
 There is a search box where is typed the word (even if it is partially permuted or it has one typo), and after clicked in the search button, the result is a list relative to the typed word.
 ```
-
-## Screenshots
-
-![](SearchList1.jpg)
-
-

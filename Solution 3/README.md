@@ -72,6 +72,4 @@ https://pl.kotl.in/RnAlv7RUH
 
 
 ## Explanation
-```
 The proposed algorithm verifies all N items of array to compare them, as the worse case is checked all items, the complexity is also O(n).
-```
