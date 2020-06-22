@@ -11,7 +11,6 @@ There is a search box where is typed the word (even if it is partially permuted 
 
 ## Screenshots
 ```
-![](1-SearchList.jpg)
-![](2-SearchList-Result.jpg)
+![](SearchList1.jpg)
 ```
 
