@@ -34,6 +34,4 @@ https://pl.kotl.in/cnOJwg2ej
 ```
 
 ## Explanation
-```
 The proposed solution has a algorithm that checks all N items of array to compare if the item is space or not, the complexity is O (n) where N is the length given.
-```
