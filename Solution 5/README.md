@@ -83,5 +83,6 @@ https://pl.kotl.in/R9Oy7ZXOZ
 ```
 
 ## Explain
-
-...
+```
+The proposed solution has complexity O(n) due it's checked each item of a given list with N elements.
+```

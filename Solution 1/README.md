@@ -13,13 +13,13 @@ Output: “User&32is&32not&32allowed”
 
 ## Solution
 ``` kotlin
-fun String.replaceAllSpaces(until : Int) = 
-    this.take(until).map {
+fun replaceAllSpaces(str: String, until : Int) =
+    str.take(until).map {
         if (it == ' ') "&32" else it
     }.joinToString("")
-    
+   
 fun main(){
-    println("User is not allowed  ".replaceAllSpaces(19)) // User&32is&32not&32allowed
+    println(replaceAllSpaces("User is not allowed  ",19)) // User&32is&32not&32allowed
 }
 ```
 
@@ -28,6 +28,12 @@ fun main(){
 User&32is&32not&32allowed
 ```
 
-## Explain
+## Run Online
+```
+https://pl.kotl.in/cnOJwg2ej
+```
 
-...
+## Explain
+```
+As the algorithm checks all N items of array, the complexity is O (n) where n is the length given.
+```

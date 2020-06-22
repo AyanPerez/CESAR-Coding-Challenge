@@ -65,6 +65,13 @@ true
 false
 ```
 
-## Explain
+## Run Online
+```
+https://pl.kotl.in/RnAlv7RUH
+```
 
-...
+
+## Explain
+```
+As the algorithm checks all N items of array, where N is the length of array given, the complexity is O (n).
+```
