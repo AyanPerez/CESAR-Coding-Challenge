@@ -10,7 +10,7 @@ There is a search box where is typed the word (even if it is partially permuted 
 ```
 
 ## Screenshots
-```
+
 ![](SearchList1.jpg)
-```
+
 
