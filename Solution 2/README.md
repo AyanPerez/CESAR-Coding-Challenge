@@ -55,7 +55,7 @@ false
 https://pl.kotl.in/ZnZ30xFzC
 ```
 
-## Explain
+## Explanation
 ```
-As the algorithm checks all N items of array, where N is the length of array given, the complexity is O (n).
+The proposed algorithm verifies all N items of array to check how many letters has not been changed of position. Then, as the worse case is checked all items, the complexity is O(n).
 ```

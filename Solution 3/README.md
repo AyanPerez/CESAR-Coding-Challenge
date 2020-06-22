@@ -71,7 +71,7 @@ https://pl.kotl.in/RnAlv7RUH
 ```
 
 
-## Explain
+## Explanation
 ```
-As the algorithm checks all N items of array, where N is the length of array given, the complexity is O (n).
+The proposed algorithm verifies all N items of array to compare them, as the worse case is checked all items, the complexity is also O(n).
 ```
